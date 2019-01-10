@@ -7,7 +7,7 @@
 :last modified time: 2018-12-08 21:43:54
 
 """
-from distutils.core import setup
+from setuptools import setup
 
 
 setup(
